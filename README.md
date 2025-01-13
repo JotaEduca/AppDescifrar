@@ -1,21 +1,21 @@
-Unscramble app
+Descifrar app
 =================================
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+Aplicación de juego para un jugador que muestra palabras cifradas. Para jugar, el jugador debe hacer una
+palabra usando todas las letras de la palabra codificada mostrada.
+Este código demuestra el componente de arquitectura de Android: ViewModel y StateFlow.
 
 
-Pre-requisites
+Requisitos previos
 --------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+* Experiencia con la sintaxis de Kotlin.
+* Cómo crear y ejecutar un proyecto en Android Studio.
+* Cómo crear funciones componibles
 
 
-Getting Started
+Empezando
 ---------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+1. Instalar Android Studio, si aún no lo tienes.
+2. Descargar el código inicial.
+3. Importar el código de inicio a Android Studio.
+4. Crea y ejecuta el ejemplo.

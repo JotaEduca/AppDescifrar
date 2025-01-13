@@ -19,9 +19,23 @@ package com.example.unscramble.data
 const val MAX_NO_OF_WORDS = 10
 const val SCORE_INCREASE = 20
 
-// Set with all the words for the Game
-val allWords: Set<String> =
-    setOf(
+
+
+// Set con todas las palabras del Juego.
+        val allWords: Set<String> =
+        setOf(
+
+            "animal","auto","anécdota","alfabeto","todo","asombroso","surgir","globo","canasta","banco","mejor","cumpleaños","libro","maletín","cámara","camping","vela","gato","coliflor","charlar","niños","clase","clásico","aula","café","vistoso","galleta","creativo","crucero","baile","diurno","dinosaurio","pomo de la puerta","cenar","soñar","anochecer","comer","elefante",
+            "esmeralda","espeluznante","eléctrico","acabado","flores","seguir","zorro","marco","gratis","frecuente","embudo","verde","guitarra","comestibles","vidrio","genial","risa","corte de pelo","mitad","casero","suceder","miel","prisa","cien","hielo","iglú","invertir","invitar","icono","presentar","broma","jovial","diario","saltar","unirse","canguro","teclado","cocina","koala","tipo","caleidoscopio",
+            "paisaje","tarde","reír","aprender","limón","carta","lirio","revista","marino","malvavisco","laberinto","meditar","melodía","minuto","monumento","luna","motocicleta","montaña","música","norte","nariz","noche","nombre","nunca","negociar","número","opuesto","pulpo","roble","orden","abrir","polar","paquete","pintura","persona","picnic","almohada","pizza","podcast","presentación","cachorro",
+            "rompecabezas","receta","liberación","restaurante","girar","rebobinar","habitación","correr","secreto","semilla","barco","camisa","debería","pequeño","nave espacial","observación de estrellas","habilidad","calle","estilo","amanecer","taxi","ordenado","temporizador","juntos","diente","turista","viaje","camión","bajo","útil","unicornio","único","elevación","uniforme","jarrón","violín","visitante","visión","volumen","vista","morsa",
+            "Vagabundeo","Mundo","Invierno","Bien","Torbellino","Rayos X","Xilófono","Yoga","Yogur","Yoyo","Tú","Año","Delicioso","Cebra","Zigzag","Zoología","Zona","Fervor"
+
+        )
+
+
+/*
+
         "animal",
         "auto",
         "anecdote",
@@ -202,3 +216,4 @@ val allWords: Set<String> =
         "zone",
         "zeal"
     )
+*/
